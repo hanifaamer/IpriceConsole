@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IpriceConsole\Iprice.ConsoleApplication.csproj" />
+    <ProjectReference Include="..\Iprice.ConsoleApplication\Iprice.ConsoleApplication.csproj" />
   </ItemGroup>
 
 </Project>

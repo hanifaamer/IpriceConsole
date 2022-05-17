@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iprice.Tests", "Iprice.Tests\Iprice.Tests.csproj", "{7C88AFB8-2B7E-4EA8-89FD-412F3BA3B32E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iprice.ConsoleApplication", "IpriceConsole\Iprice.ConsoleApplication.csproj", "{5440EB88-9A12-400D-8F92-F7A4077E3444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iprice.ConsoleApplication", "Iprice.ConsoleApplication\Iprice.ConsoleApplication.csproj", "{5440EB88-9A12-400D-8F92-F7A4077E3444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
