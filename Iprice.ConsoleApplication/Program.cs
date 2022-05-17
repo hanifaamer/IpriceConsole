@@ -26,6 +26,8 @@ namespace Iprice
                     FileHelper.OpenProgram(generateCsv);
                 }
             }
+
+            Console.ReadKey();
         }
     }
 }
